@@ -1,5 +1,5 @@
 # Subjectivity of Music Analysis
-*Project for GEN MUSIC 170 at Northwestern University - Maya Schwartz*
+*Project for GEN MUSIC 170 at Northwestern University - March 2026*
 
 ## Overview
 This project examines the relationship between algorithmic music metrics and subjective human perception of music. Streaming platforms, such as Spotify, assign numerical values to tracks (danceability, energy, valence, acousticness, instrumentalness) to categorize and recommend songs. However, music is a deeply personal experience, shaped by social, emotional, and cultural factors.
